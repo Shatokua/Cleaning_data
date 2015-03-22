@@ -10,6 +10,8 @@ where all the observations are organized according main variables. At the end yo
 average meanings for every variable for each participant (variable "Subject") for each activity (variable 
 "Activity"). All the variables and activities are labeled with descriptive names.
 
+At the end of perfomance of the script tidy data set with average meanings for every variable for each participant for each activity will be write down in the file "tidy_data.txt" in your working directory.
+
 For using script you should have packages reshape2 and dplyr installed.
 Otherwise use install.packages("reshape2"), install.packages("dplyr") before running the script.
 You also should have archive "course_proj_data.zip" in your working directory.
